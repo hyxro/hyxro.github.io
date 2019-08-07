@@ -1,0 +1,69 @@
+---
+layout: post
+title:  "Jul 19"
+date:   2019-07-31 12:32:45 +0100
+categories:
+---
+
+<img src="/images/fulls/02.jpg" class="fit image">
+
+## Jul 19
+
+<br><br>
+
+##### 15 <br>
+**<u>Fuck My Life</u>**
+I spent a hard day bc my boss had gone to Guam for her vacation 6 days ago. Every task what she has been doing become my tasks for 6 days during her absence. I should check an unanswered call every minute and call back. If someone enters the centers, I have to stop whatever work I am doing, to to the visitor and consult them. I don't like this job but I know I should do this if I want to be a manager. <br>
+Finally, I could leave from the center when everything that irritates me was all over! I could stay away from this center fastly and I decided to by some alcohol. But I didn't. Bc it's not quite good drinking alcohol when I feel bad. <br>
+Anyway, I just finished taking a shower. Feeling much better. Now, all I want to do is to install launcher successfully.
+<br><br>
+
+
+##### 17 <br>
+**<u>After Work</u>**
+My boss has got back to the work. So I can escape from this task!
+I don't have to continue this irritating works. Work is over, but Me and my boss are going to attend a company meeting at 11pm tonight. I think our company is insane. Boss(he is a final boss as fuck) called all supervisors of each branches to 'Guro'. We have no choice. This insane meeting will be started after work. Fuck my life. I'm gonna slay him tonight. (Inner voice tho...) I know it is useless to keep thinking about something can't be changed. Everything happened around me doesn't explain to me that why it had happened. I should five up a few thinks but still it irritates me. The meeting is still ongoing. My boss is talking about the new way to revive to his sinking business. That's none of my business though. <br>
+I made a plan to install Unreal Engine when I arrive my home, after this insane meeting, but now, all is ruined bc it's one o'clock in the morning. I have found a way to install UE4 Engine using Github. Official launcher doesn't work so I have decided to use Github. It's more complicated way, but it can't be helped. Half of install process has finished before the meeting started, and the other half will be completed when I will back to the home. This meeting ruined everything whatever I planned! I'll kill him. Don't stop me. (Inner voice... just go through...)
+<br><br>
+
+
+
+
+##### 23 <br>
+**<u>UE4</u>**
+I made it! The launcher problem is solved just now. I'd installed file as an administer permission, but it was my mistake. Using 'sudo' which is shell command language had changed the project file's permission. So I couldn't open the file on Xcode. But it worked when I reinstalled all project files and removed the 'sudo'. That is the answer! WOEWEE! <br>
+I like this kind of moment. Just find the problem's reason, and solve. It is so clear that I can feel catharsis. All is ready to learn this new thing. I had felt poor vibes but now I'm fine. <br>
+I have a nightmare sometimes. Today I've dreamed again. My nightmare is that either I run away or someone dies. I should runaway from massive fear. Or sometimes I'm a witness of a killer or there is a murder scene in my dream. I've suffered from a nightmare. It makes me feel blue. But dream is just a dream. The reality is that I solve the engine build problems. It's ok!
+<br><br>
+
+
+
+
+##### 25 <br>
+**<u>Github Blog</u>**
+I made a Github blog. There's no way like this to know how Github works and learn web programming. I chose a template looked simple and downloaded it. I didn't know how to update the code that I modified in my desktop. I searched google, so I found a program which is developed for this purpose. This amazing markdown editor named 'Atom' offers 'push' button to send code to my Github repositories. I should do each tasks if I wanna use this program. It was like installation and modifying something. I made it again! I can do everything if I'm with Google.
+<br><br>
+
+**<u>My Boss</u>**
+As most people do, I've no opinion about my boss. Either I like her or dislike her. Because sometimes she irritates me on a matter of business, but she is still nice person and it can't be a rational reason that I hate her. If I set up my stance cooperatively, I can learn more from her because she is a respectable boss regardless of age. <br>
+Something (Idk whether it was a weather matter or something else) pissed her off when she was working outside of the office. She had called me and asked my opinion with really exhausted voice. I could feel she is having bad vibe now(it sound tiring as fuck). People who worked with her are all came back without her. I asked to one of the people where she is now. He answered, she is maybe having a launch but He added that it's not quite accurate. I can guess where she is. I don't know for sure though. I was just really worried of her because her voice which caught my mind. I never heard that voice from her before. I would go to the place where I guess she'd be there. I could find her when I arrived at that place. She has had lunch alone. I paid both hers and mine. Then sat at another table. I just wanted to encourage her, not disturb her. She thanked me. I did it just be I wanted to. So after then, she recovered!
+<br><br>
+
+
+
+##### 27 <br>
+**<u>A certificate of qualifications course</u>**
+I hate this time. I'm sitting for the certificate of qualification course now. Leave me alone please. Seriously. Please. Is there any fucking rule to forbid my holiday? This course goes from 9am to 7pm. Insane! I wanna insult every person who is charge in this course even if professor and quit this jail. More over, wifi doesn't work here. Come on, it is fucking 2019! This university has poor infra even this location is ICT college. ICT college with poor wifi system? Cool.<br>
+No wifi zone is as same as a jail. I'm in jail now. So I just decided to quit this class(jail) at 4pm. This class is over at 7pm but whatever.
+<br><br>
+
+
+
+##### 28 <br>
+**<u>Reverse Engineering</u>**
+I don't know what it is, but I've bought a book about this. I'll go through it. When I met a problem that is hard to solve, I leave a question on the website, StackOverFlow. Today I left a two questions. One is about a ASCII code problem, and the other is about memory switched wrong. In case of the second one, I've not gotten an answer yet. Focusing on the first on, ASCII problem I asked has been solved. - thanks to an answer! Person who had answered my question said 'you didn't find the memory address OBVIOUSLY.' When I left a question, I wrote 'I think it is ASCII error.' with convincing tone. I mean that it's not my fault OBVIOUSLY, but it was all my mistake. (ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ) <br>
+I just couldn't find a right memory address. That's all. I've solved that problem that has bullied me for 2days. As a result, I got much closer to principle of memory than before.
+
+
+
+<br><br>
