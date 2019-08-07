@@ -43,6 +43,22 @@
     </header>
 
     {{ content }}
+		ul class="posts-list">
+
+		  {% assign category = page.category | default: page.title %}
+		  {% for post in site.categories[category] %}
+		    <li>
+		      <h3>
+		        <a href="{{ site.baseurl }}{{ post.url }}">
+		          {{ post.title }}
+		        </a>
+		        <small>{{ post.date | date_to_string }}</small>
+		      </h3>
+		    </li>
+		  {% endfor %}
+
+		</ul>
+
 
     <footer id="footer">
       <p class="editor-link"><a href="cloudcannon:collections/_data/social.yml" class="button"><strong>&#9998;</strong> Update Social Icons</a></p>
