@@ -29,17 +29,17 @@
       <h1 class="editable"><strong>Hello, I'm <a href="/">hyro</a></strong>.<br>
       Everything begins with your stance.<br> Remember.</h1><br>
 
-<h3>
+
     {% assign pages_list = site.pages %}
     {% for node in pages_list %}
       {% if node.title != null %}
         {% if node.layout == "category" %}
-          <li><a class="category-link {% if page.url == node.url %} active{% endif %}"
-          href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a></li>
+          <h3><a class="category-link {% if page.url == node.url %} active{% endif %}"
+          href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a></h3>
         {% endif %}
       {% endif %}
     {% endfor %}
-</h3>
+
 
 			<h3>
 				<a href="http://hyxro.github.io/record">record</a>, <br>
