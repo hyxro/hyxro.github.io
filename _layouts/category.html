@@ -1,0 +1,81 @@
+---
+layout: default
+---
+
+
+<div id="main">
+  <article>
+    <header>
+      <ul class="posts-list">
+
+        {% assign category = page.category | default: page.title %}
+        {% for post in site.categories[category] %}
+            <h5>
+              <a href="{{ site.baseurl }}{{ post.url }}">
+                {{ post.title }}
+              </a>
+              <small>{{ post.date | date_to_string }}</small>
+            </h5>
+
+        {% endfor %}
+
+      </ul>
+
+  </header>
+
+    <section>
+      <ul class="posts-list">
+
+        {% assign category = page.category | default: page.title %}
+        {% for post in site.categories[category] %}
+            <h5>
+              <a href="{{ site.baseurl }}{{ post.url }}">
+                {{ post.title }}
+              </a>
+              <small>{{ post.date | date_to_string }}</small>
+            </h5>
+
+        {% endfor %}
+
+      </ul>
+
+
+    </section>
+
+    <footer>
+      <div class="row">
+      {% if page.previous %}
+        <article class="{% cycle '6u', '6u$' %} 12u(small) excerpt">
+          <header>
+            <h2><a href="{{ page.previous.url }}">{{ page.previous.title }}</a></h2>
+          </header>
+          <section>
+            {{ page.previous.excerpt }}
+          </section>
+          <footer>
+            <ul class="actions">
+              <li><a href="{{ page.previous.url }}" class="button">Read More</a></li>
+            </ul>
+          </footer>
+        </article>
+      {% endif %}
+
+      {% if page.next %}
+        <article class="{% cycle '6u', '6u$' %} 12u(small) excerpt f-right">
+          <header>
+            <h2><a href="{{ page.next.url }}">{{ page.next.title }}</a></h2>
+          </header>
+          <section>
+            {{ page.next.excerpt | markdownify }}
+          </section>
+          <footer>
+            <ul class="actions">
+              <li><a href="{{ page.next.url }}" class="button">Read More</a></li>
+            </ul>
+          </footer>
+        </article>
+      {% endif %}
+      </div>
+    </footer>
+  </article>
+</div>
