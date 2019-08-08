@@ -2092,7 +2092,8 @@
 
 	.posts-list{
 		text-align: center;
-		padding: : 40px;
+		position:relative;
+		
 
 	}
 
