@@ -52,6 +52,10 @@
 
 /* Containers */
 
+	.category_align {
+		text-align: center;
+	}
+
 	.container {
 		margin-left: auto;
 		margin-right: auto;
